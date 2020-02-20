@@ -1,5 +1,8 @@
 package cafetera;
+
 //T5_Ejercicio_4_clase_cafetera
+
+Cambio hecho por Pablo
 
 public class Cafetera {
 	private int capacidadMaxima;
